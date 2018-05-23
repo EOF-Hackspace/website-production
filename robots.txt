@@ -1,1 +1,1 @@
-Sitemap: https://testing.eof.org.uk/sitemap.xml
+Sitemap: https://www.eof.org.uk/sitemap.xml
