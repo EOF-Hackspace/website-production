@@ -1,1 +1,1 @@
-Sitemap: http://eof.org.uk/sitemap.xml
+Sitemap: https://eof.org.uk/sitemap.xml
